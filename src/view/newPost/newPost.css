@@ -1,0 +1,13 @@
+
+.btn-cadastro{
+  
+    background-color:  #27c2a8
+}
+
+.btn-cadastro:hover{
+    background-color:  #f21667;
+    color: cornsilk;
+}
+.fa-book-reader:hover{
+    color:  #f21667;
+}

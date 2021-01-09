@@ -1,0 +1,30 @@
+.login-content{
+    width: 100%;
+    padding: 15%;
+    margin: auto;
+    background-color: #614E5A ;
+    height: 100vh;
+}
+.fa-book-reader:hover{
+    color:  #f21667;
+}
+
+.btn-login{
+    background-color: #27c2a8;
+}
+.btn-login:hover{
+    background-color: #f21667;
+    color: #fff
+}
+
+.option-login a{
+    text-decoration: none;
+    color: #fff;
+    transition: .3s ease-in;
+
+}
+
+.option-login a:hover{
+    color: #f21667;
+    
+}
